@@ -1,0 +1,16 @@
+{
+  "title": "Shadowed Keep",
+  "id": "shadow-keep",
+  "system": "dnd5e",
+  "background": "https://i.imgur.com/KOcYty4.png",
+  "joinTheme": "default",
+  "description": "<p>Shadowed Keep on the Borderlands</p>",
+  "coreVersion": "12.330",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12.330"
+  },
+  "systemVersion": "3.3.1",
+  "lastPlayed": "Tue Jul 30 2024 10:25:03 GMT-0600 (Mountain Daylight Time)",
+  "playtime": 125848
+}

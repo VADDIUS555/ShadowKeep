@@ -1,0 +1,8 @@
+2024/05/06-15:01:32.612 3574 Recovering log #22
+2024/05/06-15:01:32.652 3574 Delete type=0 #22
+2024/05/06-15:01:32.652 3574 Delete type=3 #20
+2024/05/06-15:02:01.176 87c Level-0 table #27: started
+2024/05/06-15:02:01.176 87c Level-0 table #27: 0 bytes OK
+2024/05/06-15:02:01.218 87c Delete type=0 #25
+2024/05/06-15:02:01.376 87c Manual compaction at level-0 from '!combats!0V4mAeTVGG093Dtf' @ 72057594037927935 : 1 .. '!combats!0V4mAeTVGG093Dtf' @ 0 : 0; will stop at (end)
+2024/05/06-15:02:01.376 87c Manual compaction at level-1 from '!combats!0V4mAeTVGG093Dtf' @ 72057594037927935 : 1 .. '!combats!0V4mAeTVGG093Dtf' @ 0 : 0; will stop at (end)

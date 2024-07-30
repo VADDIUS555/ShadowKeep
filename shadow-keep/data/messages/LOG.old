@@ -1,0 +1,8 @@
+2024/05/06-15:01:32.501 2f28 Recovering log #22
+2024/05/06-15:01:32.545 2f28 Delete type=0 #22
+2024/05/06-15:01:32.545 2f28 Delete type=3 #20
+2024/05/06-15:02:01.343 87c Level-0 table #27: started
+2024/05/06-15:02:01.344 87c Level-0 table #27: 0 bytes OK
+2024/05/06-15:02:01.359 87c Delete type=0 #25
+2024/05/06-15:02:01.376 87c Manual compaction at level-0 from '!messages!FQPKZ1Vyn8oDVXSF' @ 72057594037927935 : 1 .. '!messages!s2NVmcLE8dndzSYg' @ 0 : 0; will stop at (end)
+2024/05/06-15:02:01.493 87c Manual compaction at level-1 from '!messages!FQPKZ1Vyn8oDVXSF' @ 72057594037927935 : 1 .. '!messages!s2NVmcLE8dndzSYg' @ 0 : 0; will stop at (end)
